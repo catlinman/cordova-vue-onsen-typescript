@@ -33,7 +33,7 @@ I recommend checking the *config.xml* file beforehand and editing any informatio
 relevant to your project. After that you can use Cordova to add your desired
 platforms.
 
-    $ cordova platform add [ios, android, browser]
+    $ cordova platform add (ios|android|browser)
 
 Once that is complete you will want to install all dependencies by running
 the following command in the root project directory. This will read the

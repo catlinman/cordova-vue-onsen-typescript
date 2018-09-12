@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./src/",
+        "outDir": "./www/",
+        "sourceMap": true,
+        "strict": true,
+        "module": "es2015",
+        "moduleResolution": "node",
+        "target": "es6",
+        "experimentalDecorators": true
+    },
+
+    "include": [
+        "./src/**/*"
+    ]
+}

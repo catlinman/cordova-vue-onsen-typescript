@@ -1,0 +1,20 @@
+
+// Styling for various elements that do not have sub styling.
+
+// Import the required color definitions.
+@import "../modules/colors.scss";
+
+// Background used for the application.
+.background {
+    background-color: $color-background;
+}
+
+// Top of the screen toolbar styling.
+.toolbar {
+    background-color: $color-navigation;
+}
+
+// Styling for cards.
+.card {
+    background-color: $color-foreground;
+}

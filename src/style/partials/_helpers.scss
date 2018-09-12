@@ -1,0 +1,17 @@
+
+// Various helper classes used throughout the application.
+
+// Centeres an image within the parent element.
+.center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+.center {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}

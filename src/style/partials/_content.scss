@@ -1,0 +1,14 @@
+// Styling for cards and content.
+//
+// Import the required color definitions.
+@import "../modules/colors.scss";
+
+.content {
+    background-color: $color-foreground;
+
+    ons-button {
+        width: 92%;
+        margin-left: 4%;
+        margin-right: 4%;
+    }
+}

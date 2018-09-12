@@ -1,0 +1,18 @@
+
+// Styling for various text elements inside the application.
+
+// Import the required color definitions.
+@import "../modules/colors.scss";
+
+// General paragraph styling.
+p {
+    margin-left: 4%;
+    margin-right: 4%;
+    line-height: 125%;
+}
+
+// Link styling across the application.
+a, a:visited {
+    text-decoration: none;
+    color: $color-highlight;
+}

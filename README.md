@@ -119,7 +119,7 @@ Both commands should run the build command beforehand and as such bundle up all
 your assets ready for deploying.
 
 If you run into issues and have missing dependencies: Make sure to follow the
-instructions in the [Setup & Requirements][##setup&requirements] section.
+instructions in the [Setup & Requirements](#setup--requirements) section.
 
 ## License ##
 

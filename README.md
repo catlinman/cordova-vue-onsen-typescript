@@ -1,4 +1,6 @@
 
+<img src="https://raw.githubusercontent.com/catlinman/cordova-vue-onsen-typescript/master/src/static/img/vue-onsen.png" width="256">
+
 # Cordova, Vue.js, OnsenUI & TypeScript Stack #
 
 This repository is a stack I created for a mobile application running
